@@ -101,6 +101,26 @@ The newly engineered claims-processing metrics emerged as significant drivers of
 
 ---
 
+## Methodology (CRISP-DM)
+
+### Business Understanding
+Define anomaly detection objectives.
+
+### Data Understanding
+Explore data and identify patterns.
+
+### Data Preparation
+Clean data and engineer features.
+
+### Modeling
+Isolation Forest, LOF, DBSCAN, One-Class SVM.
+
+### Evaluation
+Feature importance and consensus scoring.
+
+### Deployment
+Watchlists, rankings, and reporting.
+
 ## Deliverables
 
 - Dealer Watchlist
