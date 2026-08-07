@@ -154,3 +154,15 @@ Watchlists, rankings, and reporting.
 - Business Analytics
 - Model Evaluation
 - Executive Reporting
+
+## Project Workflow
+
+images/workflow.png
+
+The project follows a structured workflow from business understanding and data preparation through anomaly detection, consensus scoring, and business recommendations.
+
+## Consensus Scoring Framework
+
+images/consensus_framework.png
+
+Multiple anomaly detection models are combined to increase confidence in identified anomalies.
