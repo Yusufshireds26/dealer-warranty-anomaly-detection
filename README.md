@@ -18,8 +18,8 @@ This project analyzed warranty claims and dealer performance metrics to create a
 
 ## Dataset
 
-- 105,000+ Warranty Claims
-- 74 Dealers
+- 26,000+ Warranty Claims
+- 584 Dealers
 - Q1-Q2 2026 Analysis
 - Consolidated Claims Data
 
