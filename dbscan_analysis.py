@@ -36,7 +36,7 @@ feature_sets = {
 }
 
 results = {}
-feature_importance = {}
+feature_differences= {}
 
 # ----------------------------------
 # MODELING LOOP
@@ -79,7 +79,7 @@ for period, features in feature_sets.items():
     )
 
     # ----------------------------------
-    # FEATURE IMPORTANCE
+    # feature differences
     # ----------------------------------
 
     normal_avg = (
