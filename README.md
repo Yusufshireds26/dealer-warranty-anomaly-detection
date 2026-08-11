@@ -1,5 +1,7 @@
 # Dealer Warranty Anomaly Detection Framework
 
+![Python Tests](https://github.com/Yusufshireds26/dealer-warranty-anomaly-detection/actions/workflows/tests.yml/badge.svg)
+
 An end-to-end unsupervised machine learning framework for identifying unusual dealer warranty behavior using multiple anomaly detection algorithms and model consensus scoring.
 
 The project combines **Isolation Forest, Local Outlier Factor (LOF), DBSCAN, and One-Class SVM** to identify dealers exhibiting abnormal warranty cost, reliability, claims-processing, and operational patterns.
