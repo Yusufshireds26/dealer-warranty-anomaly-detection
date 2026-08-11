@@ -57,7 +57,7 @@ The original project analysis included:
 - **26,000+ warranty claims**
 - **584 dealers**
 - **Q1–Q2 2026 analysis**
-- Consolidated warranty claims data
+
 
 Because the original data is proprietary, it is **not included in this repository**.
 
